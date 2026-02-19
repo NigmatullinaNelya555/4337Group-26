@@ -6,5 +6,10 @@ namespace Group4337
     {
         public MainWindow()
             => InitializeComponent();
+
+        private void Nigmatullina_4337_click(object sender, RoutedEventArgs e)
+        {
+            new _4337_Nigmatullina().ShowDialog();
+        }
     }
 }

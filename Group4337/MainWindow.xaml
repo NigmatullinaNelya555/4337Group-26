@@ -49,11 +49,7 @@
                     <RowDefinition />
                     <RowDefinition />
                 </Grid.RowDefinitions>
-
-                <!-- Места для добавления элементов управления -->
-
-                <!---->
-
+                <Button Grid.Row="14" Content="Наиля Нигматуллина" Click="Nigmatullina_4337_click" Background="#FFF411FF"/>
             </Grid>
         </Grid>
     </Grid>
